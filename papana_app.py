@@ -6,7 +6,7 @@ import matplotlib.dates as md
 from datetime import datetime
 import AMD_Tools4 as amd
 
-st.title("ぱぱな農園専用気象データ取得アプリ")
+st.title("ぱぱな農園専用気象データ取得")
 st.markdown("気温（TMP）、相対湿度（RH）、下向き長波放射量（DLR）の時別データを可視化します。")
 
 # --- 地名 → 緯度経度リスト ---
